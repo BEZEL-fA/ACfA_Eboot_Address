@@ -1,2 +1,3 @@
 # ACfA_Eboot_Address
 ACfA_Eboot_Addressは、ACfA(BLJM60066)のEBOOTアドレスを表記し、またそのアドレスのオペコードがどのような機能を持つかを示します。
+すべての要素はtxtファイルとして記述されます。
